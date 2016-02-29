@@ -1,0 +1,13 @@
+To do:
+1. Testing:
+1.1collection intrash should always be trashable and must have status Trashed
+2. Add more document about how to create a Trashable or Draggable view.
+
+
+TO discuss:
+what if a view is created from storyboard
+
+
+
+New Feature:
+3D touch a view to option remove, trash...
